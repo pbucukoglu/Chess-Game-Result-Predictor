@@ -43,7 +43,7 @@ This project predicts the outcome of a chess game—whether White wins, Black wi
 ### Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/chess-game-result-predictor.git
+   git clone https://github.com/pbucukoglu/chess-game-result-predictor.git
    cd chess-game-result-predictor
    ```
 2. Install dependencies:
